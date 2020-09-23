@@ -311,7 +311,7 @@ lazy val core = crossProject(JSPlatform, JVMPlatform)
   .in(file("core"))
   .configureCross(defaultCrossProjectConfiguration)
   .settings(
-    name := "safelogging",
+    name := "vesper-safelogging",
     libraryDependencies ++= Seq(
       "org.typelevel"  %%% "simulacrum"       % SimulacrumVersion % Provided,
       "org.typelevel"  %%% "cats-core"        % CatsVersion,
