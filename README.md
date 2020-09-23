@@ -9,7 +9,7 @@ A pure FP library for logging, that prevents leaks of sensitive data.
 The packages are published on Maven Central.
 
 ```scala
-libraryDependencies += "io.github.ing-vesper" %% "safelogging" % "<version>"
+libraryDependencies += "io.github.ing-vesper" %% "vesper-safelogging" % "<version>"
 ```
 
 ## Documentation
