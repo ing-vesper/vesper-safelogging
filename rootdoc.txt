@@ -1,0 +1,6 @@
+A pure FP library for logging, that prevents leaks of sensitive data.
+
+Links:
+
+ - [[https://ing-vesper.github.io/vesper-safelogging/ Homepage]]
+ - [[https://github.com/ing-vesper/vesper-safelogging GitHub repository]]
